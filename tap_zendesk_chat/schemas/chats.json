@@ -88,15 +88,13 @@
       "type": [
         "null",
         "string"
-      ],
-      "format": "date-time"
+      ]
     },
     "end_timestamp": {
       "type": [
         "null",
         "string"
-      ],
-      "format": "date-time"
+      ]
     },
     "response_time": {
       "$ref": "chat_response_time"
